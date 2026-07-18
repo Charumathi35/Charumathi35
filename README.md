@@ -1,54 +1,46 @@
-## Hi there 👋
+# Hi there, I'm Charumathi 👋 
 
-Add a Sleek Tech Stack & Tools Section
-Instead of plain text, use clean markdown badges or structured categories to display what you build with. Organize them clearly:
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E45757&width=435&lines=Full-Stack+Web+Developer;UI%2FUX+Design+Enthusiast;Laravel+%26+WordPress+Expert" alt="Typing SVG" />
+</p>
 
-Frontend: HTML5, CSS3, JavaScript
+---
 
-Backend: PHP, Laravel
+### 💫 About Me
+I am a Full-Stack Web Developer passionate about building robust backend architectures and crafting immersive, visually striking frontend experiences. I love exploring modern design trends like bento grids, interactive micro-interactions, and 3D web environments.
 
-CMS & Builders: WordPress, Elementor, WPBakery
+- 🚀 Currently focusing on advanced UI/UX orchestration and scalable web applications.
+- 🛠️ Experienced in building state-driven workflows and integrated management systems.
+- 🎨 Driven by clean code, minimalist aesthetics, and seamless user journeys.
 
-Structure the Content
-A highly effective format looks like this:
+---
 
-Introduction: A brief, punchy headline about who you are (e.g., "Full-Stack Developer passionate about crafting immersive web environments and clean backend architectures").
+### 🛠️ Tech Stack & Tools
 
-What I'm Working On: A bulleted list mentioning current areas of focus, like UI/UX design trends (bento grids, 3D web environments) or advanced interactions.
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Backend** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) |
+| **CMS & Builders** | ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white) `Elementor` `WPBakery` |
+| **Tools & Workflow** | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 
-Get in Touch: Clean links to your LinkedIn, portfolio website, or email.
+---
 
-2. Introduce Dynamic Profile Statistics
-You can break up text-heavy sections by adding automated graphics that fetch data directly from your GitHub activity. Two of the most popular and customizable tools are:
+### 📊 GitHub Analytics
 
-GitHub Readme Stats: Displays a dynamic card showing your total commits, PRs, issues, and stars. You can apply custom themes (like a vintage, grainy dark theme or high-contrast modern themes) to match your personal aesthetic.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Charumathi35&show_icons=true&theme=rose&hide_border=true&count_private=true" alt="Charumathi's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charumathi35&layout=compact&theme=rose&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
-Top Languages Card: Automatically generates a breakdown of the languages you use most across your repositories (which will beautifully highlight your PHP and JavaScript balance).
+---
 
-3. Curate Your Pinned Repositories
-By default, GitHub pins your oldest or most recently active public repositories. You can manually choose up to 6 repositories to showcase by clicking Customize your pins on your overview page.
-
-Strategic Selection
-Choose the projects that display your highest technical capabilities:
-
-The Complex Backend System: Feature your Laravel-based CRUD or tracking applications first.
-
-The Advanced Frontend/UI Projects: Pin your design-focused repositories (like Design1, Design2, or your recent landing pages) to show off your UI layout skills.
-
-The Live Portfolio: Once your portfolio repository is ready, pin it right at the top.
-
-Clean Up Repository Descriptions
-Make sure every single pinned repository has:
-
-A clear, one-sentence description explaining what the project does.
-
-Relevant Repository Topics (tags like laravel, php, ui-ux, frontend).
-
-A live GitHub Pages or deployment link in the repository's About section so visitors can see your work live instantly without digging through the source code.
-
-4. Professional Profile Fine-Tuning
-Profile Picture: If you prefer using an avatar/graphic over a personal photo, pick a clean, high-resolution vector or an image that matches a distinct visual style (like a retro/cinematic edit) to give the page immediate personality.
-
-Bio Section: Add a quick 1-line bio right under your name (e.g., "Web Developer & UI/UX Enthusiast").
-
-Organization: If you have complete experimental or tutorial repositories (like tutorial-lst), you can leave them public but unpinned, keeping the spotlight entirely on your custom builds.
+### 🤝 Connect with Me
+<p align="left">
+  <a href="mailto:charumathisaravanakumar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/charumathi-s-a4aa7225b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
