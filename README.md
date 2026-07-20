@@ -1,7 +1,7 @@
 # Hi there, I'm Charumathi 👋 
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E45757&width=435&lines=Full-Stack+Web+Developer;UI%2FUX+Design+Enthusiast;Laravel+%26+WordPress+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E45757&width=435&lines=Full-Stack+Web+Developer;UI%2FUX+Design+Enthusiast;Laravel+%26+WordPress+Developer" alt="Typing SVG" />
 </p>
 
 ---
